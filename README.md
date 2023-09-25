@@ -38,6 +38,6 @@ pip install -r requirements.txt
 ### Links
 - [Demo Site](https://demo-site.booking-system.tech/)
 
-- [My LinkedIn Profile](https://www.linkedin.com/in/nicholas-ho-954053216/)
+- [My LinkedIn Profile](https://www.linkedin.com/in/chun-him-ho-954053216/)
 
 - [My GitHub Profile](https://github.com/eipi717)
